@@ -1,0 +1,252 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/rhino.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/ext/pulse-java.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/ext/gnome-java-bridge.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/ext/sunjce_provider.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> /opt/eclipse/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+42 items
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/BoundingBox$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/BoundingBox.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Contributor$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Contributor.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Coordinates$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Coordinates.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Entities$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Entities.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Hashtag$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Hashtag.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Media$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Media.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Place$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Place.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Size$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Size.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Sizes$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Sizes.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Tweet$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Tweet.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Tweets$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Tweets.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Url$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Url.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/UserMention$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/UserMention.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Users$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/Users.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$1.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$3.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$3.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$4.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$5.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$6$$anonfun$apply$7.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$6.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$8.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$delayedInit$body.class
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer.class
+binary dependencies:
+11 items
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /opt/eclipse/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/rt.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/.ivy2/cache/com.hunorkovacs/koauth_2.11/jars/koauth_2.11-1.1.0.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.3.0.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/.ivy2/cache/org.json4s/json4s-native_2.11/jars/json4s-native_2.11-3.3.0.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /opt/eclipse/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/rt.jar
+direct source dependencies:
+1 items
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> /home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+42 items
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> BoundingBox
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> BoundingBox$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Contributor
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Contributor$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Coordinates
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Coordinates$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Entities
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Entities$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Hashtag
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Hashtag$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Media
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Media$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Place
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Place$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Size
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Size$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Sizes
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Sizes$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Tweet
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Tweet$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Tweets
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Tweets$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Url
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Url$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> UserMention
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> UserMention$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Users
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> Users$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$1
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2$$anonfun$3
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2$$anonfun$apply$1
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$3
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$4
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$5
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$6
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$6$$anonfun$apply$7
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$8
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> TwitterStreamer$delayedInit$body
+used names:
+0 items
+product stamps:
+42 items
+/home/global/Desktop/akka-sample-twitter-streaming/bin/BoundingBox$.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/BoundingBox.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Contributor$.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Contributor.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Coordinates$.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Coordinates.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Entities$.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Entities.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Hashtag$.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Hashtag.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Media$.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Media.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Place$.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Place.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Size$.class -> lastModified(1453724773000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Size.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Sizes$.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Sizes.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Tweet$.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Tweet.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Tweets$.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Tweets.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$1.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$3.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$3.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$4.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$5.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$6.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1$$anonfun$apply$8.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2$$anonfun$apply$1.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$$anonfun$2.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer$delayedInit$body.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/TwitterStreamer.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Url$.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Url.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/UserMention$.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/UserMention.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Users$.class -> lastModified(1453724774000)
+/home/global/Desktop/akka-sample-twitter-streaming/bin/Users.class -> lastModified(1453724774000)
+source stamps:
+2 items
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> hash(23fab3fde33616beab40c6a9760cb8794e9676bd)
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> hash(5501207d506c4f60037809aba727cee574fe166c)
+binary stamps:
+9 items
+/home/global/.ivy2/cache/com.hunorkovacs/koauth_2.11/jars/koauth_2.11-1.1.0.jar -> lastModified(1433343566000)
+/home/global/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> lastModified(1436421519000)
+/home/global/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar -> lastModified(1436957975000)
+/home/global/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar -> lastModified(1436957884000)
+/home/global/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1449106078000)
+/home/global/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.3.0.jar -> lastModified(1443877633000)
+/home/global/.ivy2/cache/org.json4s/json4s-native_2.11/jars/json4s-native_2.11-3.3.0.jar -> lastModified(1443877618000)
+/opt/eclipse/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1450111335000)
+/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/rt.jar -> lastModified(1437731305000)
+class names:
+9 items
+/home/global/.ivy2/cache/com.hunorkovacs/koauth_2.11/jars/koauth_2.11-1.1.0.jar -> com.hunorkovacs.koauth.service.consumer.RequestWithInfo
+/home/global/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> akka.util.ByteString
+/home/global/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar -> akka.http.scaladsl.model.HttpResponse
+/home/global/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar -> akka.stream.scaladsl.Source
+/home/global/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+/home/global/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.3.0.jar -> org.json4s.package$
+/home/global/.ivy2/cache/org.json4s/json4s-native_2.11/jars/json4s-native_2.11-3.3.0.jar -> org.json4s.native.JsonMethods$
+/opt/eclipse/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.DelayedInit
+/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79.x86_64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCyxa8MAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAA5zcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAFVHdlZXR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnR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
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAzn6jSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAPVHdpdHRlclN0cmVhbWVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AMXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AMABwc3EAfgA1c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AOXNxAH4AMABwc3EAfgA1dXEAfgAQAAAAAHNxAH4AMABwc3EAfgA1dXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgBGeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4AHEwABXZhbHVlcQB+ABx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADh0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AOHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AYHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNxAH4AU3QABFVuaXRxAH4AWXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AEZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AFRbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADhzcQB+AFN0AAVBcnJheXEAfgBZdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AFN0AAZTdHJpbmdzcQB+AFdzcQB+AFp1cQB+AF0AAAADc3EAfgBfdAAEamF2YXNxAH4AX3QABGxhbmdxAH4AZHNxAH4AMABwc3EAfgA1dXEAfgB9AAAABHNxAH4AU3QAA0FwcHEAfgBZc3EAfgBTdAALRGVsYXllZEluaXRxAH4AWXNxAH4AU3QABk9iamVjdHEAfgCBc3EAfgBTdAADQW55cQB+AFl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUni/bId1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA2L2hvbWUvZ2xvYmFsL0Rlc2t0b3AvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvYmludABBL2hvbWUvZ2xvYmFsL0Rlc2t0b3AvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGF1cgACW0Ks8xf4BghU4AIAAHhwAAAAFFUBIH1QbE9gA3gJq6cnzuV0/hZs
+external apis:
+0 items
+source infos:
+2 items
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/Tweet.scala -> 
+AAAAAAAAAAA=
+/home/global/Desktop/akka-sample-twitter-streaming/src/main/scala/TwitterStreamer.scala -> 
+AAAAAAAAAAA=
+compilations:
+18 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmmgT5N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmo4F9N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmo436d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmo5BcN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmpHdBR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmpQ3Np1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmp//i91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqBTHJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqEhit1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqFiI11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqGBq51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqG7al1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqHToB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqUsq11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqVZ1x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqXUOd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmqYhtx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALi9ob21lL2dsb2JhbC9ha2thLXNhbXBsZS10d2l0dGVyLXN0cmVhbWluZy9iaW50ADkvaG9tZS9nbG9iYWwvYWtrYS1zYW1wbGUtdHdpdHRlci1zdHJlYW1pbmcvc3JjL21haW4vc2NhbGE=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUni/bId1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9ob21lL2dsb2JhbC9EZXNrdG9wL2Fra2Etc2FtcGxlLXR3aXR0ZXItc3RyZWFtaW5nL2JpbnQAQS9ob21lL2dsb2JhbC9EZXNrdG9wL2Fra2Etc2FtcGxlLXR3aXR0ZXItc3RyZWFtaW5nL3NyYy9tYWluL3NjYWxh
